@@ -14,6 +14,12 @@
 
 您也可以直接访问[这里](https://raw.githubusercontent.com/Skimige/AntiMakedingHosts/master/hosts)，复制 Hosts 将其加入您的本地 Hosts 中。
 
+## 注意
+
+我并不会把我自己的时间花在关心某司今天又代理了哪家公司的软件，注册了什么域名来推广他的代理产品。
+
+简单的来说，就是这份 Hosts 不会随着某公司的最新进展而更新。如果你发现某司又代理了 XX 软件且注册了 XX 域名而我这里的 hosts 没有，**你可以在 Issue 里提出，或者提个 PR 来让大家免受踩坑。**
+
 ## 推荐阅读
 
 `不愿回锅的回锅肉` 在 `如何评价苏州思杰马克丁软件公司？` 下的 [回答](https://www.zhihu.com/question/46746200/answer/189862510) | [Archive.is 存档](https://archive.is/dz2r6)
