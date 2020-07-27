@@ -63,6 +63,12 @@
 ### Flash (CN)
 127.0.0.1 flash.cn
 127.0.0.1 www.flash.cn
+127.0.0.1 geo2.adobe.com
+127.0.0.1 flash.2144.com
+127.0.0.1 www.2144.cn
+127.0.0.1 fpdownload2.macromedia.com
+127.0.0.1 fpdownload.macromedia.com
+127.0.0.1 macromedia.com
 ### FL Studio
 127.0.0.1 flstudiochina.com
 127.0.0.1 www.flstudiochina.com
